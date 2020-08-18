@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  backend_url: 'https://mighty-bayou-04719.herokuapp.com/api',
+  backend_url: 'http://localhost:3000/api',
 };
 
 /*
